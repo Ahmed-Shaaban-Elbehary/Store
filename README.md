@@ -1,2 +1,2 @@
 # Store Application Backend
-# Powered by Clean Architecture 
+Powered by Clean Architecture 
