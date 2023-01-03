@@ -1,3 +1,3 @@
 # Store Application Backend
 Based On  [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture.git)
-[logo]: https://imgur.com/AOBgBd6 "Logo Title Text 2"
+![alt text](https://imgur.com/AOBgBd6 "Logo Title Text 1")
