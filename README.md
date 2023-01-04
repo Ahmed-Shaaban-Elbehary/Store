@@ -2,6 +2,5 @@
 ### Based On  [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture.git)
 
 <p align="center"> 
-  <img width="500" src="https://user-images.githubusercontent.com/55551677/210354737-e914d621-41f1-4e0a-a983-ce2fa160fcaf.png" alt="Clean Architecture">
+  <img width="500" src="https://user-images.githubusercontent.com/55551677/210498667-fcc2b520-28fe-48c5-b670-21a5b91bb541.png" alt="Clean Architecture">
 </p>
-
